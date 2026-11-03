@@ -1,0 +1,31 @@
+Use case: style-transfer, one icon per request. Reference image1: rat-stickers-v3.png composited on flat #FF00FF, so the model returns the same flat chroma background.
+
+Shared brief (every request):
+Reference image 1 is the existing Exfil player-filter sticker pack: the definitive character, material and finish. Create ONE new sticker icon that belongs in that pack, as if the same artist made it in the same session.
+Character: the Exfil RIVAL RAT exactly as in reference 1. Soft 3D clay/vinyl material, a large soft-gray rat face, pink round ears, a pink nose, two white buck teeth, black rectangular expressive eyes, a charcoal helmet with its raised dark visor (never orange goggles), and an olive vest showing only as a tiny collar. Smooth and polished, softly front-lit, simplified and sculptural, no fur texture.
+Sticker: one continuous fine IVORY keyline, the same thickness as in reference 1, around the whole icon. The symbol sits inside the keyline too.
+Composition: the rat face fills most of the icon, front or three-quarter view, as in the round, buying and selling icons of reference 1. ONE bold symbol, beside or above the head. Keep the chin and collar at the bottom centre plain: the app lays a small label pill over that spot.
+It must read at 32-40 pixels: one bold symbol, clear value contrast, no tiny details. No text, letters, numbers or watermarks anywhere.
+Output: a square image with the sticker centred and filling about 80% of the frame, on a perfectly flat solid MAGENTA (#FF00FF) chroma-key background. No gradient, no floor, no cast shadow, and no glow outside the keyline.
+
+Per icon (atlas order):
+- topTrader: TOP TRADER: a calm, confident smirk. ONE bold GOLD three-point crown sits on top of the charcoal helmet. Nothing else.
+- didntJeet: DIDN'T JEET (held through a 2x pump): relaxed half-lidded eyes and a small easy smile. ONE tall LIME-GREEN rising price candlestick, with thin wicks, stands beside the right side of the head.
+- diamondPaws: DIAMOND PAWS (held through 4x): determined, steady eyes. Both pink paws are raised beside the cheek, holding up ONE big bright CYAN cut diamond at the upper right of the head. The diamond is in the paws, never in or over the mouth.
+- moonSquatter: MOON SQUATTER (held through 8x): dreamy, content, half-closed eyes. ONE big pale-YELLOW crescent moon sits behind the upper right of the helmet, with the head resting in front of it, plus two tiny white stars.
+- gigachad: GIGACHAD (held through 16x): a heroic square jaw, chin up. Two straight bright RED laser beams shoot sideways out of both eyes and end inside the sticker outline. No other props.
+- generationalBag: GENERATIONAL BAG (held through 32x): beaming, eyes squeezed with joy. ONE large tan money sack with a GREEN dollar sign is hugged at the right side of the head, with a soft GREEN glow inside the sticker behind the head. NO crown.
+- downBad: DOWN BAD, STILL HERE (down 50% and still holding): a nervous gritted-teeth smile. ONE big CYAN sweat drop on the temple, and ONE RED falling price candlestick beside the right side of the head.
+- bagWarmer: BAG WARMER (holding 1 day+): a sleepy, content face, cheek resting on ONE small tan money sack at the right side of the head.
+- bagHugger: BAG HUGGER (holding 7 days+): eyes closed blissfully, both arms hugging ONE medium tan money sack against the cheek at the right side, with ONE small red heart above.
+- marriedBag: MARRIED THE BAG (holding 30 days+): adoring, sparkling eyes. ONE gold ring with a cyan gem is held up beside the cheek, with a small tan money sack behind it.
+- tilDeath: TIL DEATH (holding 90 days+): a stoic, unmoved face. ONE plain grey rounded headstone stands behind the head: a blank stone with no carving, text or cross.
+- jeet: JEET (sold before 2x): panicked wide eyes, sweating. The paws fling TWO white paper sheets away to the upper right (paper hands).
+- lostSeedPhrase: LOST SEED PHRASE (a wallet asleep for a month): eyes peacefully SHUT, asleep, head tilted, helmet slipping over one eye. ONE small pale-lavender sleep bubble at the upper right, with no letters. The fur is slightly faded.
+- pinkie: PINKIE (a wallet less than a day old): a NEWBORN rat with hairless, smooth PINK skin on the whole face and ears (soft pink like #F4A6B8, no gray fur), big round curious eyes, and a charcoal helmet a little too big for it. No other props or symbols.
+- newbie: NEWBIE (a wallet under 30 days old): a young gray rat with wide, eager eyes. ONE small bright-green two-leaf sprout grows from the top of the helmet.
+- seasoned: SEASONED (a wallet under a year old): the standard rival rat, confident and steady. ONE AMBER chevron rank patch on the front of the helmet.
+Make the amber chevron BIG and bold: it fills most of the front of the helmet, so it reads at 32 pixels.
+- oldRat: OLD RAT (a wallet a year or more old): gray-white fur, bushy white eyebrows, a white whisker moustache, ONE pair of round gold-rimmed spectacles, and a scuffed helmet.
+The spectacles, white eyebrows and moustache are the only symbols: no coin, watch or any other prop. Make the spectacles bold.
+- firstCoin: FIRST COIN (a newborn wallet's first coin): the hairless PINK newborn rat (soft pink skin, no gray fur), delighted, holding up ONE big shiny GOLD coin beside the cheek with both paws.

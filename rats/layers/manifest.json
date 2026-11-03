@@ -1,0 +1,527 @@
+{
+ "canvas": {
+  "h": 1379,
+  "w": 1304
+ },
+ "frame": {
+  "size": 1254.0,
+  "x": 25.08,
+  "y": 125.4
+ },
+ "fur": {
+  "tint-abyss": "#657f9d",
+  "tint-blue": "#8cabe0",
+  "tint-charcoal": "#7a7e89",
+  "tint-ember": "#eba67a",
+  "tint-ghost": "#e2ecef",
+  "tint-gold": "#e3be71",
+  "tint-magenta": "#c5a3ca",
+  "tint-sky": "#a2cadc",
+  "tint-teal": "#73b8ab",
+  "tint-toxic": "#accd80",
+  "tint-violet": "#b2a2da"
+ },
+ "kit": {
+  "kit-arctic": "#d6ded7",
+  "kit-cobalt": "#5f7fa6",
+  "kit-cyan": "#6caaae",
+  "kit-desert": "#c9ad86",
+  "kit-night": "#48515c",
+  "kit-royal": "#8b7faa"
+ },
+ "layers": {
+  "base-biker": {
+   "h": 1182,
+   "w": 1178,
+   "x": 71,
+   "y": 170
+  },
+  "base-captain": {
+   "h": 1181,
+   "w": 945,
+   "x": 187,
+   "y": 177
+  },
+  "base-cute": {
+   "h": 1166,
+   "w": 972,
+   "x": 163,
+   "y": 188
+  },
+  "base-desert": {
+   "h": 1226,
+   "w": 832,
+   "x": 220,
+   "y": 135
+  },
+  "base-field": {
+   "h": 1243,
+   "w": 898,
+   "x": 204,
+   "y": 125
+  },
+  "base-fixer": {
+   "h": 1164,
+   "w": 839,
+   "x": 278,
+   "y": 194
+  },
+  "base-freshcut": {
+   "h": 1130,
+   "w": 1061,
+   "x": 136,
+   "y": 205
+  },
+  "base-hacker": {
+   "h": 1121,
+   "w": 1085,
+   "x": 138,
+   "y": 211
+  },
+  "base-hackershades": {
+   "h": 1124,
+   "w": 1086,
+   "x": 138,
+   "y": 209
+  },
+  "base-medic": {
+   "h": 1173,
+   "w": 1071,
+   "x": 131,
+   "y": 181
+  },
+  "base-miner": {
+   "h": 1162,
+   "w": 1056,
+   "x": 116,
+   "y": 190
+  },
+  "base-night": {
+   "h": 1217,
+   "w": 775,
+   "x": 234,
+   "y": 145
+  },
+  "base-pixel": {
+   "h": 1174,
+   "w": 978,
+   "x": 158,
+   "y": 186
+  },
+  "base-ranger": {
+   "h": 1159,
+   "w": 969,
+   "x": 179,
+   "y": 192
+  },
+  "base-ronin": {
+   "h": 1162,
+   "w": 968,
+   "x": 184,
+   "y": 190
+  },
+  "base-skater": {
+   "h": 1155,
+   "w": 1133,
+   "x": 76,
+   "y": 200
+  },
+  "base-strawhat": {
+   "h": 1175,
+   "w": 978,
+   "x": 229,
+   "y": 179
+  },
+  "base-unicyclist": {
+   "h": 1166,
+   "w": 947,
+   "x": 150,
+   "y": 176
+  },
+  "crown-gold-biker": {
+   "h": 192,
+   "w": 287,
+   "x": 590,
+   "y": 8
+  },
+  "crown-gold-captain": {
+   "h": 191,
+   "w": 287,
+   "x": 590,
+   "y": 46
+  },
+  "crown-gold-cute": {
+   "h": 191,
+   "w": 287,
+   "x": 590,
+   "y": 46
+  },
+  "crown-gold-desert": {
+   "h": 192,
+   "w": 287,
+   "x": 408,
+   "y": 102
+  },
+  "crown-gold-field": {
+   "h": 191,
+   "w": 287,
+   "x": 408,
+   "y": 115
+  },
+  "crown-gold-fixer": {
+   "h": 191,
+   "w": 287,
+   "x": 590,
+   "y": 46
+  },
+  "crown-gold-freshcut": {
+   "h": 191,
+   "w": 287,
+   "x": 590,
+   "y": 46
+  },
+  "crown-gold-hacker": {
+   "h": 191,
+   "w": 287,
+   "x": 590,
+   "y": 46
+  },
+  "crown-gold-hackershades": {
+   "h": 191,
+   "w": 287,
+   "x": 590,
+   "y": 46
+  },
+  "crown-gold-medic": {
+   "h": 191,
+   "w": 287,
+   "x": 590,
+   "y": 46
+  },
+  "crown-gold-miner": {
+   "h": 191,
+   "w": 287,
+   "x": 590,
+   "y": 46
+  },
+  "crown-gold-night": {
+   "h": 191,
+   "w": 287,
+   "x": 383,
+   "y": 115
+  },
+  "crown-gold-pixel": {
+   "h": 191,
+   "w": 287,
+   "x": 590,
+   "y": 46
+  },
+  "crown-gold-ranger": {
+   "h": 191,
+   "w": 287,
+   "x": 590,
+   "y": 46
+  },
+  "crown-gold-ronin": {
+   "h": 191,
+   "w": 287,
+   "x": 590,
+   "y": 46
+  },
+  "crown-gold-skater": {
+   "h": 191,
+   "w": 287,
+   "x": 590,
+   "y": 46
+  },
+  "crown-gold-strawhat": {
+   "h": 191,
+   "w": 287,
+   "x": 590,
+   "y": 46
+  },
+  "crown-gold-unicyclist": {
+   "h": 192,
+   "w": 287,
+   "x": 590,
+   "y": 8
+  },
+  "hat-bandana-cute": {
+   "h": 302,
+   "w": 659,
+   "x": 364,
+   "y": 413
+  },
+  "hat-bandana-pixel": {
+   "h": 460,
+   "w": 594,
+   "x": 365,
+   "y": 312
+  },
+  "hat-crown-cute": {
+   "h": 208,
+   "w": 314,
+   "x": 564,
+   "y": 37
+  },
+  "hat-crown-pixel": {
+   "h": 278,
+   "w": 453,
+   "x": 501,
+   "y": 0
+  },
+  "hat-headset-cute": {
+   "h": 535,
+   "w": 490,
+   "x": 514,
+   "y": 173
+  },
+  "hat-headset-pixel": {
+   "h": 678,
+   "w": 749,
+   "x": 309,
+   "y": 95
+  },
+  "hat-helmet-cute": {
+   "h": 497,
+   "w": 716,
+   "x": 363,
+   "y": 184
+  },
+  "hat-helmet-pixel": {
+   "h": 482,
+   "w": 588,
+   "x": 398,
+   "y": 173
+  },
+  "hat-nvg-cute": {
+   "h": 251,
+   "w": 239,
+   "x": 796,
+   "y": 363
+  },
+  "hat-nvg-pixel": {
+   "h": 517,
+   "w": 584,
+   "x": 601,
+   "y": 182
+  },
+  "hat-shades-cute": {
+   "h": 127,
+   "w": 283,
+   "x": 714,
+   "y": 508
+  },
+  "hat-shades-pixel": {
+   "h": 139,
+   "w": 279,
+   "x": 707,
+   "y": 507
+  },
+  "kit-arctic-cute": {
+   "h": 962,
+   "w": 726,
+   "x": 377,
+   "y": 192
+  },
+  "kit-arctic-pixel": {
+   "h": 954,
+   "w": 704,
+   "x": 399,
+   "y": 200
+  },
+  "kit-cobalt-cute": {
+   "h": 962,
+   "w": 726,
+   "x": 377,
+   "y": 192
+  },
+  "kit-cobalt-pixel": {
+   "h": 954,
+   "w": 704,
+   "x": 399,
+   "y": 200
+  },
+  "kit-cyan-cute": {
+   "h": 962,
+   "w": 726,
+   "x": 377,
+   "y": 192
+  },
+  "kit-cyan-pixel": {
+   "h": 954,
+   "w": 704,
+   "x": 399,
+   "y": 200
+  },
+  "kit-desert-cute": {
+   "h": 962,
+   "w": 726,
+   "x": 377,
+   "y": 192
+  },
+  "kit-desert-pixel": {
+   "h": 954,
+   "w": 704,
+   "x": 399,
+   "y": 200
+  },
+  "kit-night-cute": {
+   "h": 962,
+   "w": 726,
+   "x": 377,
+   "y": 192
+  },
+  "kit-night-pixel": {
+   "h": 954,
+   "w": 704,
+   "x": 399,
+   "y": 200
+  },
+  "kit-royal-cute": {
+   "h": 962,
+   "w": 726,
+   "x": 377,
+   "y": 192
+  },
+  "kit-royal-pixel": {
+   "h": 954,
+   "w": 704,
+   "x": 399,
+   "y": 200
+  },
+  "tint-abyss-cute": {
+   "h": 864,
+   "w": 695,
+   "x": 396,
+   "y": 452
+  },
+  "tint-abyss-pixel": {
+   "h": 829,
+   "w": 693,
+   "x": 402,
+   "y": 474
+  },
+  "tint-blue-cute": {
+   "h": 864,
+   "w": 695,
+   "x": 396,
+   "y": 452
+  },
+  "tint-blue-pixel": {
+   "h": 829,
+   "w": 693,
+   "x": 402,
+   "y": 474
+  },
+  "tint-charcoal-cute": {
+   "h": 864,
+   "w": 695,
+   "x": 396,
+   "y": 452
+  },
+  "tint-charcoal-pixel": {
+   "h": 829,
+   "w": 693,
+   "x": 402,
+   "y": 474
+  },
+  "tint-ember-cute": {
+   "h": 864,
+   "w": 695,
+   "x": 396,
+   "y": 452
+  },
+  "tint-ember-pixel": {
+   "h": 829,
+   "w": 693,
+   "x": 402,
+   "y": 474
+  },
+  "tint-ghost-cute": {
+   "h": 864,
+   "w": 695,
+   "x": 396,
+   "y": 452
+  },
+  "tint-ghost-pixel": {
+   "h": 829,
+   "w": 693,
+   "x": 402,
+   "y": 474
+  },
+  "tint-gold-cute": {
+   "h": 864,
+   "w": 695,
+   "x": 396,
+   "y": 452
+  },
+  "tint-gold-pixel": {
+   "h": 829,
+   "w": 693,
+   "x": 402,
+   "y": 474
+  },
+  "tint-magenta-cute": {
+   "h": 864,
+   "w": 695,
+   "x": 396,
+   "y": 452
+  },
+  "tint-magenta-pixel": {
+   "h": 829,
+   "w": 693,
+   "x": 402,
+   "y": 474
+  },
+  "tint-sky-cute": {
+   "h": 864,
+   "w": 695,
+   "x": 396,
+   "y": 452
+  },
+  "tint-sky-pixel": {
+   "h": 829,
+   "w": 693,
+   "x": 402,
+   "y": 474
+  },
+  "tint-teal-cute": {
+   "h": 864,
+   "w": 695,
+   "x": 396,
+   "y": 452
+  },
+  "tint-teal-pixel": {
+   "h": 829,
+   "w": 693,
+   "x": 402,
+   "y": 474
+  },
+  "tint-toxic-cute": {
+   "h": 864,
+   "w": 695,
+   "x": 396,
+   "y": 452
+  },
+  "tint-toxic-pixel": {
+   "h": 829,
+   "w": 693,
+   "x": 402,
+   "y": 474
+  },
+  "tint-violet-cute": {
+   "h": 864,
+   "w": 695,
+   "x": 396,
+   "y": 452
+  },
+  "tint-violet-pixel": {
+   "h": 829,
+   "w": 693,
+   "x": 402,
+   "y": 474
+  }
+ },
+ "note": "Every layer sits at x, y on one shared canvas; stack base, then tint, kit, hat or crown. tools/compose_rat.py does it."
+}

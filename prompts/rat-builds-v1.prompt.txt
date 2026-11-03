@@ -1,0 +1,3 @@
+Generate a production transparent sprite atlas for EXFIL. Three full-body tactical pixel-art gray rats, one per equal square cell, feet aligned, 3:1 canvas. No text, panels, ground, shadows or weapons. Olive gear, orange goggles, pink ears/nose/tail; restrained detail and strong outlines. Left: pointed long snout, giant upright ears, narrow shoulders, lean body. Middle: round cheek pouches, tiny round ears, small cap, protruding round belly. Right: low flat helmet, square jowls, broad rectangular shoulders and square pack, short legs. Similar heights, radically different widths and silhouettes, complete cutouts with feet and tails visible.
+
+Output: 2172 x 724 RGBA, three 724 px cells.

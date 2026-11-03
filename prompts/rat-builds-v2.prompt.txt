@@ -1,0 +1,29 @@
+Use case: style transfer onto fixed silhouettes, one figure per request.
+
+References:
+- Bodies: image 1 is the build's own cell of rat-builds-v1.png on magenta (the design and silhouette to trace); image 2 is rat-cute-v2.png on magenta (the finish to match).
+- Scout pinkie and sleeper: image 1 is rat-cute-v2.png.
+
+Body brief (each build's line replaces {build}):
+Reference image 1 is a PIXEL-ART sprite of one rat from our game. Reference image 2 is our game's hero rat in the FINAL art style.
+Redraw the rat from image 1 as a premium 3D render in EXACTLY the style of image 2: soft 3D clay/vinyl toy material, fine soft fur shading, glossy black eyes with a small white highlight, pink nose, ears, paws and tail, fabric and webbing texture on the kit. It must look like it came from the same artist and render session as image 2.
+TRACE image 1: keep its outline. The same pose, the same feet planted in the same places, facing screen RIGHT in the same three-quarter view, the same head size and position, the same body width, the same long pink tail curling out to the LEFT as far as in image 1. Fill the same area of the square as image 1, at the same position: a viewer flipping between the two should see the same shape. {build}
+Colours: the fur is a NEUTRAL light grey like image 2's (no warm, brown or yellow cast), with a white muzzle and belly where image 1 has them. The olive helmet with orange goggles on top, the olive vest, pouches and bag exactly as in image 1. Light it softly and evenly so the grey fur stays grey: a soft white key light from the upper right and a soft cool fill from the left, no strong coloured light.
+This rat is NOT a player: no EXFIL bag, no duffel, no text or letters anywhere, no weapons, no other props.
+Output a square image on a perfectly flat solid MAGENTA (#FF00FF) chroma-key background: no gradient, no floor, no cast shadow, no glow, no outline.
+
+- body-pointed: This is the POINTED build: a lean rat with a long pointed snout, two very large upright ears, thin legs in a wide stance and a small shoulder pouch. Keep it lean: the narrow silhouette means a small holding.
+- body-round: This is the ROUND build: a chubby, round-bellied rat with full cheeks, small round ears, a cream belly and a shoulder bag. Keep it round and as wide as image 1: the round silhouette means a medium holding.
+- body-broad: This is the BROAD build: a wide, heavy, stocky rat in a big full chest rig of olive pouches, with a stern face and a pack on its back. Keep it broad, square and as wide as image 1: the wide silhouette means a large holding.
+
+Pinkie brief:
+Reference image 1 is one rat from our game. Draw THE SAME rat, identical in pose, outline, framing, size, position, render style, helmet, goggles, vest and kit, but as a NEWBORN PINKIE: the fur is gone, replaced by smooth hairless soft PINK skin (like #F4A6B8) on the face, ears, body, arms and legs, with slightly deeper pink inner ears, nose and paws. Keep the eyes as they are. Change nothing else: the same silhouette, the same kit colours. Output a square image on a perfectly flat solid MAGENTA (#FF00FF) chroma-key background: no gradient, no floor, no shadow, no outline.
+
+Sleeper brief:
+Reference image 1 is one rat from our game. Draw THE SAME rat, identical in pose, outline, framing, size, position, render style, helmet, vest and kit, but ASLEEP standing up: both eyes peacefully SHUT as dark curved lines, the orange goggle lenses dark and unlit (dull dark brown, no glow), the grey fur slightly faded and dusty. Do not tilt or move the head. No sleep bubble, no letters. Change nothing else: the same silhouette. Output a square image on a perfectly flat solid MAGENTA (#FF00FF) chroma-key background: no gradient, no floor, no shadow, no outline.
+
+Scout pinkie brief:
+Reference image 1 is the Exfil player rat, our mascot. Draw THE SAME rat, identical in pose, outline, framing, size, position and render style, with the same olive helmet and orange goggles, the same olive vest and the same black EXFIL duffel bag with EXFIL readable on it, but as a NEWBORN PINKIE: the fur is gone, replaced by smooth hairless soft PINK skin (like #F4A6B8) on the face, ears, arms, legs and feet, with slightly deeper pink inner ears, nose and paws. Keep the eye as it is. Change nothing else. Output a square image on a perfectly flat solid MAGENTA (#FF00FF) chroma-key background: no gradient, no floor, no shadow, no outline.
+
+Scout sleeper brief:
+Reference image 1 is the Exfil player rat, our mascot. Draw THE SAME rat, identical in pose, outline, framing, size, position and render style, with the same olive helmet, the same olive vest and the same black EXFIL duffel bag with EXFIL readable on it, but ASLEEP standing up: the eye peacefully SHUT as a dark curved line, the orange goggle lenses dark and unlit (dull dark brown, no glow), the grey fur slightly faded and dusty. Do not tilt or move the head. No sleep bubble, no letters other than EXFIL on the bag. Change nothing else. Output a square image on a perfectly flat solid MAGENTA (#FF00FF) chroma-key background: no gradient, no floor, no shadow, no outline.

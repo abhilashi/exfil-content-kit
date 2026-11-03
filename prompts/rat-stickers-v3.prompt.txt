@@ -1,0 +1,18 @@
+Use case: style-transfer. Create ONE production transparent PNG atlas of twelve Exfil PLAYER FILTER icons. Reference image1 is the definitive Exfil RIVAL RAT character identity and soft 3D clay/vinyl material style. Reference image2 is the RUNNER, for consistent species/brand only; orange goggles are reserved for the user's own character, so these player icons wear DARK charcoal helmets/raised black visors. Reference image3 is only the twelve symbolic concepts and their ORDER, NOT its drawing style or yellow lamps.
+Make a world-class messaging sticker pack translated from the supplied 3D Exfil character: large soft-gray rat faces, pink round ears and pink nose, two distinctive buck teeth, black rectangular expressive eyes, charcoal helmets with raised dark goggles/visor so eyes visible. Olive vest only as tiny collar. Smooth polished clay/plush 3D shading, softly front-lit; simplified and sculptural. A very fine ivory sticker keyline separates dark helmets from dark app backgrounds. Not pixel art, not fluffy hamster cheek patches, not generic cartoon mice. No miniature full bodies. Rat faces fill their icons; the symbols integrate at the chin.
+Optimize for REAL 32–40 pixel size. One bold shape or symbol per icon, clear value contrast, minimal seams and whiskers, no tiny fur texture. No text/labels/numbers/watermarks.
+True ALPHA TRANSPARENT background. 4 columns x 3 rows, landscape 4:3. EXACTLY 12 separate icons. Each icon must have a generous clear transparent gutter on all sides; center within its own square cell, max 74% of cell width and height. No touching neighboring icons; no tile backgrounds, grid, floor or cast shadows.
+Left-to-right top-to-bottom:
+1 lean rat head: narrow triangular muzzle angled right, tall slender ears, sharply tapered helmet silhouette.
+2 round rat head: nearly front view, round face and round cheeks, small ears, domed charcoal helmet.
+3 broad rat head: exaggerated wide rectangular jaw, flat low charcoal helmet, tiny side ears, strong squared shoulders/collar; clearly wide trapezoid unlike round icon2.
+4 scalper rat head with swept-back ears, focused eyes and ONE thick GOLD lightning bolt occupying lower-right half.
+5 repeated-buys rat: holds three oversized stepped LIME green blocks just below its chin.
+6 holder rat: one huge CYAN anchor below chin, calm face.
+7 repeated-sells rat: one huge AMBER open scissors below chin, simple bold silhouette.
+8 robot RAT: squared brushed-gray face, pink metal round ears, cyan square eyes, short antenna, echoes rival identity.
+9 family: three head silhouettes tightly arranged as one triangular group, largest face front-center and two smaller heads behind. Bold simple forms.
+10 buying: rival head on LEFT, thick LIME left-pointing arrow at lower right aimed INTO the rat's chest.
+11 selling: rival head on LEFT, thick AMBER right-pointing arrow at lower right aimed OUT from the rat's chest.
+12 below-reference: rival rat head partly below a single thick CYAN horizontal level bar, ears above it, eyes/muzzle below. No tears.
+Retain the supplied character's charming determined face and collectible 3D appearance. Make all 12 coherent and easy to tell apart by outline and symbol at thumbnail scale.
